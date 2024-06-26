@@ -1,10 +1,5 @@
 ## Hi there 👋
-
-<!--
-**MrJoelao/MrJoelao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 👀 I’m interested at databases at the moment
 - 🔭 I’m currently working on DeltaDent
 - 🌱 I’m currently learning C# and MySQL
--->
+⚡ Fun fact: idk what i'm doing
