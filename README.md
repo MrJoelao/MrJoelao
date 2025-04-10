@@ -4,10 +4,10 @@ Welcome to my GitHub profile, where I showcase my shitty ass code. I'm Joel, an 
 ## 📚 About Me
 
 - **Name:** Joel Stephan.
-- **Age:** 18 
+- **Age:** 19 
 - **School:** Galileo Galilei Institute.
 - **Major:** Computer Science.
-- **Languages:** C, Java, C#, and a sprinkle of MySQL (the secret ingredient is pain).
+- **Languages:** C, Java, C#, js, PHP and a sprinkle of MySQL (the secret ingredient is pain).
   
 ## 🦸‍♂️ Fun Facts
 
