@@ -1,13 +1,5 @@
 # 👋 Hi!
 Welcome to my GitHub profile, where I showcase my shitty ass code. I'm Joel, an Italian high school student from the Galileo Galilei Institute, majoring in Computer Science.
-
-## 📚 About Me
-
-- **Name:** Joel Stephan.
-- **Age:** 19 
-- **School:** Galileo Galilei Institute.
-- **Major:** Computer Science.
-- **Languages:** C, Java, C#, js, PHP and a sprinkle of MySQL (the secret ingredient is pain).
   
 ## 🦸‍♂️ Fun Facts
 
